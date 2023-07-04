@@ -1,0 +1,26 @@
+﻿  Game.cpp
+c:\sdl\sdlgame\transformcomponent.h(60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\sdl\sdlgame\transformcomponent.h(61): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\sdl\sdlgame\newcollisioncomponent.h(53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\sdl\sdlgame\newcollisioncomponent.h(77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\sdl\sdlgame\keyboardcontroller.h(59): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\sdl\sdlgame\keyboardcontroller.h(60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\sdl\sdlgame\keyboardcontroller.h(76): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\sdl\sdlgame\keyboardcontroller.h(77): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\sdl\sdlgame\enemycomponent.h(65): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\sdl\sdlgame\enemycomponent.h(66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\sdl\sdlgame\enemycomponent.h(75): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\sdl\sdlgame\enemycomponent.h(76): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\sdl\sdlgame\game.cpp(47): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\sdl\sdlgame\game.cpp(67): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\sdl\sdlgame\game.cpp(68): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\sdl\sdlgame\game.cpp(73): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\sdl\sdlgame\game.cpp(74): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\sdl\sdlgame\game.cpp(123): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\sdl\sdlgame\game.cpp(128): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\sdl\sdlgame\game.cpp(131): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\sdl\sdlgame\game.cpp(195): warning C4018: '<': signed/unsigned mismatch
+c:\sdl\sdlgame\game.cpp(209): warning C4018: '<': signed/unsigned mismatch
+c:\sdl\sdlgame\game.cpp(239): warning C4018: '<': signed/unsigned mismatch
+c:\sdl\sdlgame\game.cpp(300): warning C4018: '<': signed/unsigned mismatch
+  SDLGame.vcxproj -> C:\SDL\SDLGame\Debug\SDLGame.exe
